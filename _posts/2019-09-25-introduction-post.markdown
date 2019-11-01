@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction Post"
 date:   2019-09-25 19:28:00 -0500
 categories: jekyll update
+author: Cam
 ---
 Click [here](http://mark.goadrich.com/courses/csci340f19/labs/lab3.html) to see the webpage for Lab 3.
 
