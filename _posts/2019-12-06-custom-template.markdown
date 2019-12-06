@@ -13,7 +13,8 @@ I think step 1 of this lab was the most difficult part. Without the help of Dr. 
 Using jekyll was new to me. I had trouble just figuring out how to change the picture. But now that I did I really like the look of it.
 Also setting up the Long Haul template was difficult, but now that it works I really like the aesthetics. 
 
-I'm still confused about how to edit the `header.html` file. I'm not quite sure how to delete the GitHub and Download links, but I'll figure it out.
+I'm still confused about how to edit the `header.html` file. I'm not quite sure how to delete the GitHub and Download links, but I'll figure it out. 
+So turnes out I already did it and I just needed to push the changes to guthub.
 
 I'm looking forward to finishing these labs and finishing the project with the rest of my team. I have a lot of work to do and I'm finally getting 
 my stuff in order. I want to come back to Hendrix next year and see my friends again, in order to do that I have to finish this semester strong!
@@ -23,4 +24,4 @@ getting too bored.
 
 Now all that's left is to add pictures.
 
-
+![Skyrim](/assets/img/skyrim.jpg)
