@@ -24,6 +24,6 @@ getting too bored.
 
 Now all that's left is to add pictures.
 
-Maybe using `../img/skyrim.jpg` will work?
+Maybe using `/assets/img/skyrim.jpg` will work?
 
-![Skyrim](../img/skyrim.jpg)
+![Skyrim](/assets/img/skyrim.jpg)
