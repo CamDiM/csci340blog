@@ -24,8 +24,8 @@ getting too bored.
 
 Now all that's left is to add pictures.
 
-Maybe using `/assets/img/skyrim.jpg` will work?
+Maybe using `{{site.baseurl}}/assets/img/skyrim.jpg` will work?
 
-![skyrim](/assets/img/skyrim.jpg)
+![skyrim]({{site.baseurl}}/assets/img/skyrim.jpg)
 
 I don't understand what I'm doing wrong.
