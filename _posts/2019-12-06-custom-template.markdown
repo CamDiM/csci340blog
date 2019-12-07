@@ -27,3 +27,7 @@ Now all that's left is to add pictures.
 Maybe using `/assets/img/skyrim.jpg` will work?
 
 ![skyrim](/assets/img/skyrim.jpg){:class="img-responsive"}
+
+woooorrrkkkk
+
+<img src="/assets/images/skyrim.jpg" alt="">
