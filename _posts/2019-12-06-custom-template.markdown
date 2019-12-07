@@ -22,6 +22,7 @@ I'm looking forward to finishing these labs and finishing the project with the r
 my stuff in order. I want to come back to Hendrix next year and see my friends again, in order to do that I have to finish this semester strong!
 
 ![Skyrim]({{site.baseurl}}/assets/img/skyrim.jpg)
+
 On a completely separate note, I've been listening to some [Skyrim music](https://youtu.be/hBkcwy-iWt8) while doing my homework. It helps from 
 getting too bored.
 
