@@ -26,4 +26,4 @@ Now all that's left is to add pictures.
 
 Maybe using `/img/skyrim.jpg` will work?
 
-![Skyrim](/img/skyrim.jpg)
+![Skyrim](/img/skyrim.jpg){:class="img-responsive"}
