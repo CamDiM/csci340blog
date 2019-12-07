@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lemur.md
+title: Lemurs
 ---
 
 <div class="post">
